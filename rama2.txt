@@ -1,0 +1,1 @@
+Varias lineas para la rama 2 , denotar que para usar las ramas se dbee usar el termino branch y para cambiar entre ellas checkout
